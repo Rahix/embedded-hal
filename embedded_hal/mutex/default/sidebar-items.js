@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["DefaultRo","Marker trait to enable the default `RoMutex` implementation."],["RefCellRw","Marker trait to enable an implementation of `RwMutex` using `RefCell`s"]]});
